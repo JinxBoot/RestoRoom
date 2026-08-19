@@ -25,6 +25,3 @@ RRReborn.com;
 ReRec.net;
 </b>
 </span>
-
-TEST:
-<span style="color:orange;">Orange text</span>
